@@ -1,0 +1,1 @@
+var $gif = $('img[src$="gif"]');
